@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+std:: cout << "Hello again, my name is Jing.";
+std:: cout << "\nI should be going to NYC soon."; 
+std:: cout << "\nBut I am not because COVID. SMH.";
 }
